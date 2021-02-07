@@ -1,0 +1,50 @@
+body {background-image: url(../img/background.jpg); object-fit: cover;}
+.ra {background: rgba(0,0,0,0.6); height: 100vh;}
+h1 {color: #fff; text-align: center;}
+.mdl-layout__content {width:100%; height: 100vh;}
+.mdl-card {padding: 50px;}
+.img-beranda {
+	border-radius: 50%;
+	width: 100px;
+	margin: : auto;
+	padding: 10px 10px 10px 10px;
+}
+.beranda, .garis-bawah, .garis-bawah-di-status {
+	padding-bottom: 8px;
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 10px;
+}
+.beranda {
+	text-align: center;
+}
+.menu-kiri-list-bawah, a.menu-kiri-link-bawah {
+    font-size: 12px;
+    line-height: 16px;
+    -webkit-box-flex: none;
+    -webkit-flex: none;
+    flex: none;
+    margin: 24px 0 -15px 24px;
+    text-decoration: none;
+}
+.mdl-dialog {
+	width: 30%;
+	height: 60%;
+}
+.login {
+	width: 100%;
+	height: 90%;
+	padding-top: 10px;
+}
+.ditengah {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.mdl-tabs__tab-bar {
+	border: none;
+}
+.clearkan {
+	clear: both;
+}
+.mdl-data-table {width: 100%;}
+.mdl-switch__label {padding-right: 20px;}
